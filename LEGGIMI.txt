@@ -1,0 +1,16 @@
+PROGRESS 1% — SINGLE HOME + FOOD
+
+This single ZIP contains:
+- Progress1Percent.apk — Android ARM64 debug APK built in GitHub Actions
+- Progress1Percent_Source.zip — matching complete Android source project
+
+Verified GitHub Actions run: 42084277541
+Build: assembleDebug SUCCESS
+Unit tests: testDebugUnitTest SUCCESS
+Lint: lintDebug SUCCESS
+
+Installation: copy Progress1Percent.apk to your Android device and open it.
+Export a JSON backup from any previous installed version before uninstalling; a different debug signature may prevent in-place update.
+
+Food recognizes labels and uses supplied product quantities and nutrition values; photo-only calorie estimates are not clinically or nutritionally exact.
+Creator: Francesco Borghi
